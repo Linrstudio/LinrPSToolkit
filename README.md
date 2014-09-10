@@ -13,7 +13,7 @@
 
 ### 下载 download
 
-请在 [Download](https://github.com/Linrstudio/PhotoshopCopyCSS/raw/master/download/LinrPSToolkit.2014.9.zip 'Download') 下载
+请在 [Download](https://github.com/Linrstudio/LinrPSToolkit/blob/master/download/LinrPSToolkit.2014.9.zip?raw=true 'Download') 下载
 
 ### 系统要求 system requred:
 
